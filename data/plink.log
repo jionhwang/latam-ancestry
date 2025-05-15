@@ -1,0 +1,13 @@
+PLINK v1.9.0-b.7.7 64-bit (22 Oct 2024)
+Options in effect:
+  --bfile latam_chr1
+  --geno 0.05
+  --mind 0.05
+
+Hostname: campus-039-229.ucdavis.edu
+Working directory: /Users/jionhwang/Downloads/latam-ancestry/data
+Start time: Mon May 12 17:02:18 2025
+
+Warning: No output requested.  (Did you forget --make-bed?)  Exiting.
+
+End time: Mon May 12 17:02:18 2025

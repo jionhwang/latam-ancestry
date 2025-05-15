@@ -1,0 +1,34 @@
+PLINK v1.9.0-b.7.7 64-bit (22 Oct 2024)
+Options in effect:
+  --bfile latam_chr1
+  --geno 0.05
+  --hwe 1e-6
+  --maf 0.01
+  --make-bed
+  --mind 0.05
+  --out latam_chr1_qc
+
+Hostname: campus-039-229.ucdavis.edu
+Working directory: /Users/jionhwang/Downloads/latam-ancestry/data
+Start time: Mon May 12 17:15:06 2025
+
+Random number seed: 1747095306
+8192 MB RAM detected; reserving 4096 MB for main workspace.
+6468094 variants loaded from .bim file.
+347 people (0 males, 0 females, 347 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to latam_chr1_qc.nosex .
+0 people removed due to missing genotype data (--mind).
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 347 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.999872.
+3217 variants removed due to missing genotype data (--geno).
+--hwe: 7817 variants removed due to Hardy-Weinberg exact test.
+5599620 variants removed due to minor allele threshold(s)
+(--maf/--max-maf/--mac/--max-mac).
+857440 variants and 347 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to latam_chr1_qc.bed + latam_chr1_qc.bim + latam_chr1_qc.fam ...
+done.
+
+End time: Mon May 12 17:15:09 2025

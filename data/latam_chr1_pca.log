@@ -1,0 +1,25 @@
+PLINK v1.9.0-b.7.7 64-bit (22 Oct 2024)
+Options in effect:
+  --bfile latam_chr1_ldpruned
+  --out latam_chr1_pca
+  --pca 10
+
+Hostname: campus-039-229.ucdavis.edu
+Working directory: /Users/jionhwang/Downloads/latam-ancestry/data
+Start time: Mon May 12 17:32:40 2025
+
+Random number seed: 1747096360
+8192 MB RAM detected; reserving 4096 MB for main workspace.
+857440 variants loaded from .bim file.
+347 people (0 males, 0 females, 347 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to latam_chr1_pca.nosex .
+Using up to 8 threads (change this with --threads).
+Before main variant filters, 347 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.999904.
+857440 variants and 347 people pass filters and QC.
+Note: No phenotypes present.
+Relationship matrix calculation complete.
+--pca: Results saved to latam_chr1_pca.eigenval and latam_chr1_pca.eigenvec .
+
+End time: Mon May 12 17:32:44 2025
