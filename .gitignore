@@ -1,0 +1,11 @@
+*.vcf.gz
+*.bed
+*.bim
+*.fam
+*.log
+*.nosex
+*.tbi
+*.out
+*.eigenval
+*.eigenvec
+
